@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985745446961",
+    "project_id": "photo-app-17e25",
+    "storage_bucket": "photo-app-17e25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985745446961:android:5146bc22453b0cf1791d10",
+        "android_client_info": {
+          "package_name": "com.listenink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985745446961-cp0cg6ehon5bcsdph7q417b8c580i0m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.listenink",
+            "certificate_hash": "d4700e7db5a23aa1d900e1bdd815a106d76696a0"
+          }
+        },
+        {
+          "client_id": "985745446961-7u5u70af0g93p8kfqaq72rim0tl6855m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-XnRxNYCnTK05PkMHE4ecC4KQxlCWlc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985745446961-7u5u70af0g93p8kfqaq72rim0tl6855m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
